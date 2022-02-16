@@ -1,6 +1,6 @@
 ## Saudemy App.
 
-This App For My Own video courses.
+This App For My Own Video Courses.
 
 Technologies: Firebase, Flutter, Publit
 
